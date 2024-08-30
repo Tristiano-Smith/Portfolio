@@ -1,4 +1,4 @@
-# Tristan Smuith - Data Analyst Portfolio
+# Tristan Smith - Data Analyst Portfolio
 ## About
 Hi, my name's Tristan, I'm a psychology graduate with a passion for numbers and analytics. I'm excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
